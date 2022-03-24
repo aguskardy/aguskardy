@@ -4,6 +4,10 @@ Currently as student and falling love with design system like Figma.
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
+### Stat:
+<p>
     <img src="https://img.shields.io/github/stars/aguskardy?style=social" />
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
