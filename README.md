@@ -6,7 +6,7 @@ Currently as student and falling love with design system like Figma.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Stat:
+### Stats:
 <p>
     <img src="https://img.shields.io/github/stars/aguskardy?style=social" />
     <img src="https://gpvc.arturio.dev/bagusfe" />
@@ -14,7 +14,7 @@ Currently as student and falling love with design system like Figma.
 
 ### Stats:
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently like with Figma </br>
+    - 🔭 I’m currently learning design system on Figma </br>
     - 💬 Ask me about anything.</br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
