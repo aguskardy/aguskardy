@@ -23,6 +23,8 @@ Currently as student and falling love with design system like Figma.
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aguskardy&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguskardy&layout=compact" height=180 />
+    <div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kardiana" data-             version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kardiana?trk=profile-badge">I Komang Agus Kardiana</a></div>
+              
 </p>
 
 <!--
