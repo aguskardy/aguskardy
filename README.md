@@ -1,9 +1,10 @@
 # Hi there 👋 , I'm Kardi!
-Currently as student and falling love with design system like Figma.
+Currently falling love with design system like Figma.
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ### Stats:
@@ -23,8 +24,6 @@ Currently as student and falling love with design system like Figma.
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aguskardy&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguskardy&layout=compact" height=180 />
-    <div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kardiana" data-             version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kardiana?trk=profile-badge">I Komang Agus Kardiana</a></div>
-              
 </p>
 
 <!--
